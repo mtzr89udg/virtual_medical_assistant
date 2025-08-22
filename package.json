@@ -1,0 +1,22 @@
+{
+  "name": "romi_amv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtzr89udg/virtual_medical_assistant.git"
+  },
+  "author": "Eric Martinez R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtzr89udg/virtual_medical_assistant/issues"
+  },
+  "homepage": "https://github.com/mtzr89udg/virtual_medical_assistant#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
